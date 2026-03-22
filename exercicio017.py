@@ -1,6 +1,6 @@
-lado1 = int(input('Lado 1: '))
-lado2 = int(input('Lado 2: '))
-lado3 = int(input('Lado 3: '))
+lado1 = int(input('Lado A: '))
+lado2 = int(input('Lado B: '))
+lado3 = int(input('Lado C: '))
 
 if lado1 + lado2 >= lado3:
     if lado1 + lado3 >= lado2:
