@@ -4,4 +4,4 @@ if valor > 0:
 else:
     print(f'O numero não é positivo!') 
 
-    print('salve')
+   
